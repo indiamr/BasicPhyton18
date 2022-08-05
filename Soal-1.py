@@ -1,0 +1,8 @@
+Name = input("Nama :")
+N=str(Name)
+Age = input("Umur :")
+A=int(Age)
+Height = input("Tinggi :")
+H=float(Height)
+print("Nama",type(N),"Umur",type(A),"Tinggi",type(H))
+print("Nama saya",Name,", umur saya", Age," dan tinggi saya", Height,"cm") 
