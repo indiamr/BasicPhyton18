@@ -13,7 +13,7 @@ def contactlist( ) :
 def addcontact():	
 	name.append(input("Name : "))
 	notlp.append(input("Phone No. : "))
-	print("")
+	print("Data Successfully Added")
 	
 #menucode
 print(' Welcome !')
